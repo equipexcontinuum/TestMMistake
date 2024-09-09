@@ -1,10 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Year"
-    url: /posts/
+  - title: "Présentation"
+    url: /presentation/
+  - title: "Plateformes"
+    url: /platforms/
+  - title: "articles"
+    url: /article/
   - title: "Tags"
     url: /tags/
   - title: "About"

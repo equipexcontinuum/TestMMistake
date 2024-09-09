@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Presentation du projet"
+permalink: /presentation/
 author_profile: true
 ---
