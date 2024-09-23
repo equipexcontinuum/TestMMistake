@@ -4,7 +4,7 @@ main:
   - title: "Plateformes"
     url: /platforms/
   - title: "articles"
-    url: /article/
+    url: /articles/
   - title: "Tags"
     url: /tags/
   - title: "About"
